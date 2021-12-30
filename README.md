@@ -20,4 +20,4 @@ Please view the license. Improvements and new feature additions are very welcome
 
 ## Libraries used (many thanks to their authors)
 * [CitizenFX.Core.Client](https://www.nuget.org/packages/CitizenFX.Core.Client)
-Thank you to the creators of the official What3Words.
+* Thank you to the creators of the official What3Words.
