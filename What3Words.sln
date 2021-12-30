@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What3Words", "What3Words\What3Words.csproj", "{25896BCF-778E-475D-9A6C-A7BA2E15E8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25896BCF-778E-475D-9A6C-A7BA2E15E8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25896BCF-778E-475D-9A6C-A7BA2E15E8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25896BCF-778E-475D-9A6C-A7BA2E15E8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25896BCF-778E-475D-9A6C-A7BA2E15E8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD17C6A6-2CB2-48D8-B85D-33C033CA839B}
+	EndGlobalSection
+EndGlobal
