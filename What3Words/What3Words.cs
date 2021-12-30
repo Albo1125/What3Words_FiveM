@@ -20,7 +20,7 @@ namespace What3Words
 
         public const int SquareLength = 5;
 
-        //4,858,112‬ squares
+        //4,858,112 squares.
         // 170 nPr 3 = 4826640
         // 171 nPr 3 = 4912830
         public const int NumWords = 171;
