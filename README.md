@@ -1,5 +1,5 @@
 # What3Words (unofficial FiveM script)
-What3Words is a UK-based resource for FiveM by Albo1125 that provides 3-word location functionality based on the What3Words app (this is not in any way affiliated with the official What3Words app).
+What3Words is a UK-based resource for FiveM by Albo1125 that provides 3-word location functionality based on the What3Words app (this is not in any way affiliated with the official What3Words app). It is available at [https://github.com/Albo1125/What3Words_FiveM](https://github.com/Albo1125/What3Words_FiveM)
 
 ## Installation & Usage
 1. Download the latest release.
